@@ -1,0 +1,9 @@
+.Container{
+    width: 90%;
+    margin: 5rem auto;
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+}
+.main{
+    min-height: 100vh;
+}
